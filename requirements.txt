@@ -1,0 +1,7 @@
+langchain==0.3.17
+langchain_community==0.3.16
+langchain_groq==0.2.4
+streamlit==1.41.1
+validators==0.28.1
+youtube_transcript_api==0.6.3
+transformers
